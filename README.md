@@ -1,5 +1,4 @@
 # awesome-debugging
-Thinking：Why Debugging?（思考：为什么要调试？）
 
 ### Introduction - 简介
 * 调试（Debugging），是一门学问，一门技术，一不小心掉进深渊无法生还。
@@ -7,7 +6,7 @@ Thinking：Why Debugging?（思考：为什么要调试？）
   * 推崇者：调试介于牛A和牛C之间...这样..那样..然后..Breakpoint/CallStacks/Step/Trace...此处省略一万字...
   * 鄙视者：一来就调试，不从问题本身、架构设计去思考，缺少思维实验，手速快思想狭隘。
   * 吃瓜者：不明觉厉...
-* Why Debugging? 
+* Why Debugging?（为什么要调试？）
   * 整个项目会围绕这个论题展开，五味杂陈皆聚于此。
   * 项目会沉积一些有用的工具、书、网站、话题、文章、以及分享作者自身的经历和思考。
 
